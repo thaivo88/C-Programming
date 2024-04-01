@@ -1,5 +1,6 @@
 #include <stdio.h>
 // math header library to use the sin function
+// cmd to run: gcc sine.c -lm
 #include <math.h>
 
 int main()
